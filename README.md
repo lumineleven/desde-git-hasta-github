@@ -1,2 +1,2 @@
-# desde-git-hasta-github
+# Refactorización
 Trabajo de ciclo superior de desarrollo de aplicaciones multiplataforma
